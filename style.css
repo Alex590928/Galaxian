@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    text-align: center;
+    padding: 20px;
+    background: #0d0c15;
+}
+#game {
+    padding: 5px;
+    background: #2b2b2b;
+    color: white;
+    display: inline-block;
+}
+
+#game #title {
+    padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #5889a9;
+    text-shadow: 0 0 5px #00aa00;
+}
+
+#cnv {
+    border-radius: 15px;
+    background: #1a272f;
+    box-shadow: 0 0 5px #00A7FF;
+}
